@@ -1,2 +1,2 @@
 # fluffy-eureka
-a list of phrases
+a list of phrases and sentences
